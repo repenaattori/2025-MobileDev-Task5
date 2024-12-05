@@ -1,0 +1,14 @@
+## Install dependencies
+npm install
+
+## Run tests to check if the answer is correct
+npm test
+
+## Task
+Create a form like in the image products.png.
+    - When the product and quantity are selected, the total price is displayed.
+        - The products and prices are predefined in the App.js
+    - There is a predefined component fot the result text so just the price need to be added there.
+    - Add Dropdown component and set the placeholder to 'product'. Add also the needed state management.
+    - Use InputSpinner component and set the placeholder to 'quantity'. Add also the needed state management.
+
